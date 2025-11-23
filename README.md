@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="shf_dataentrypointsfinal">Starkey - Data Entries</a> | 
+  <a href="shf_dataentrypointsfinal">Starkey - Data Entries</a>
 </p>
 
 
