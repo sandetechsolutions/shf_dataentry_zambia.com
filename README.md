@@ -11,7 +11,7 @@
 
 <p align="center">
  Starkey Hearing College Zambia  ©2025 | Sande Tech Solutions
-  - Registered under the Patents and Companies Registration Agency (PACRA).  
+  - Registered under the Patents and Companies Registration Agency (PACRA) | Health Council Professionals of Zambia (HPCZ).  
   All documents, designs, icons, code, and related materials are legally protected.  
   Unauthorized copying, redistribution, or modification in any form is strictly prohibited Law.
 </p>
